@@ -1,7 +1,11 @@
 ---
 layout: post
 title:  "Workshop post"
+<<<<<<< HEAD
 date:   2019-02-08 16:35:56 -0500
+=======
+date:   2019-02-07 16:35:56 -0500
+>>>>>>> 3b0cb13cce97197c84bef28bf38e5c508b084523
 categories: jekyll update
 ---
 
