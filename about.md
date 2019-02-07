@@ -6,6 +6,8 @@ permalink: /about/
 
 This is a text about page for Kelly Josephs
 
+Here is another test.
+
 ![this is a picture](screen shot 2019-01-30 at 7.58.54 PM.png)
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
